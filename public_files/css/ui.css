@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+
+.wrapper {
+	height: 100%;
+	margin: 0 auto; 
+	overflow: hidden;
+}
+.main {
+
+}
+section.page1{
+	background: #851c55;
+}
+section.page2{
+	background-color: #e6d9c8;
+}
+section.page3 {
+	background-color: orange;
+}
+section.page4 {
+	background-color: red;
+}
